@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hi there, I'm Ron Lunde.
 
 ## I'm a software architect/manager/engineer in Pittsburgh, Pennsylvania, USA
 
