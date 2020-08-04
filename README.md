@@ -56,5 +56,6 @@ Here are some ideas to get you started:
 - [Hidden Complexity is Complexity](https://medium.com/@rlunde/hidden-complexity-is-complexity-a88d242f2322)
 - [Surprise! You Don't Exist](https://medium.com/@rlunde/surprise-you-dont-exist-52dcbc75b11f)
 - [Build an ark? Or nail pizza to the wall?](https://medium.com/@rlunde/build-an-ark-or-nail-pizza-to-the-wall-ac07be90b4bd)
+- [Amor Fati and Wabi-Sabi](https://medium.com/@rlunde/attitude-101-amor-fati-and-wabi-sabi-2c1208974df3)
 ---
 
