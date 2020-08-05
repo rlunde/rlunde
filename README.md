@@ -57,5 +57,6 @@ Here are some ideas to get you started:
 - [Surprise! You Don't Exist](https://medium.com/@rlunde/surprise-you-dont-exist-52dcbc75b11f)
 - [Build an ark? Or nail pizza to the wall?](https://medium.com/@rlunde/build-an-ark-or-nail-pizza-to-the-wall-ac07be90b4bd)
 - [Amor Fati and Wabi-Sabi](https://medium.com/@rlunde/attitude-101-amor-fati-and-wabi-sabi-2c1208974df3)
+- [I Am Groot!](https://medium.com/@rlunde/i-am-groot-f3dad5a805bb)
 ---
 
