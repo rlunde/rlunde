@@ -32,24 +32,45 @@ Here are some ideas to get you started:
 
 ### Languages, Tools, Databases:
 
-- go
-- javascript
-- java
-- c++
-- python
-- swift
-- html
-- css
-- react
-- d3
-- vs code
-- xcode
-- cassandra
-- postgreSQL
+Note: I never claim to be an expert in a language (or anything else). So I'll try to distinguish between the things I've used at work "for real" versus things I've written personal projects in, versus things I'm curious about and learning.
+
+That said, some of these are things I used a lot many years ago, while others are things I used a little very recently.
+
+## Languages
+
+### Used for real
+- c, c++, css, go, html, java, javascript, perl, php, python, ruby, swift, typescript
+
+### Used for personal projects, or just learning
+- clojure, elixir, rust
+
+## Tools, Frameworks, Formats, etc.
+
+### Used for real
+- atom, intellij (and jetbrains family), vim, vscode, xcode
+- git (and many other version control systems), confluence, jira, trello, ...
+- docker, kubernetes
+- html, json, yaml, xml
+- bootstrap, d3, rails, react, redux, spring
+
+### Used for personal projects, or just learning
+
+## Databases/Datastores
+
+### Used for real
+- cassandra, dgraph, mysql, oracle, postgresql, redis, scylladb
+
+### Used for personal projects, or just learning
+- mongodb, neo4j
+
+# Things I didn't put here
+
+1. bash - I use it all the time, but if I'm going to write a script I'll use python, ruby, perl, ...
+2. xslt - I just don't like it
+3. lisp - a first love, but alas
+4. things we used at work but I never programmed, like elasticsearch, etc.
 
 <br />
-<br />
-
 
 ### 📕 Selected Blog Posts
 - [The Joy of Coding](https://medium.com/@rlunde/the-joy-of-coding-f788cab20bbb)
