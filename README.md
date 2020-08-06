@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 
 <br />
 
-### Languages, Tools, Databases:
+# Languages, Tools, Databases:
 
-Note: I never claim to be an expert in a language (or anything else). So I'll try to distinguish between the things I've used at work "for real" versus things I've written personal projects in, versus things I'm curious about and learning.
+*Note*: I never claim to be an expert in a language (or anything else). So I'll try to distinguish between the things I've used at work "for real" versus things I've written personal projects in, versus things I'm curious about and learning.
 
 That said, some of these are things I used a lot many years ago, while others are things I used a little very recently.
 
@@ -72,7 +72,7 @@ That said, some of these are things I used a lot many years ago, while others ar
 
 <br />
 
-### 📕 Selected Blog Posts
+### 📕 Some Selected Blog Posts I Wrote
 - [The Joy of Coding](https://medium.com/@rlunde/the-joy-of-coding-f788cab20bbb)
 - [Hidden Complexity is Complexity](https://medium.com/@rlunde/hidden-complexity-is-complexity-a88d242f2322)
 - [Surprise! You Don't Exist](https://medium.com/@rlunde/surprise-you-dont-exist-52dcbc75b11f)
