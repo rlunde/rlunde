@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Who Am I?
 
 ## I'm a software architect/manager/engineer in Pittsburgh, Pennsylvania, USA
 
@@ -23,16 +24,15 @@ Here are some ideas to get you started:
 
 ### Where to find me:
 
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/rlunde)
-
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ron-lunde-6205/)
 
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/rlunde)
 
 <br />
 
 # Languages, Tools, Databases:
 
-*Note*: I never claim to be an expert in a language (or anything else). So I'll try to distinguish between the things I've used at work "for real" versus things I've written personal projects in, versus things I'm curious about and learning.
+**Note**: I never claim to be an expert in a language (or anything else). So I'll try to distinguish between the things I've used at work "for real" versus things I've written personal projects in, versus things I'm curious about and learning.
 
 That said, some of these are things I used a lot many years ago, while others are things I used a little very recently.
 
@@ -52,8 +52,6 @@ That said, some of these are things I used a lot many years ago, while others ar
 - docker, kubernetes
 - html, json, yaml, xml
 - bootstrap, d3, rails, react, redux, spring
-
-### Used for personal projects, or just learning
 
 ## Databases/Datastores
 
