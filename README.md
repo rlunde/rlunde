@@ -77,6 +77,7 @@ That said, some of these are things I used a lot many years ago, while others ar
 - [Hidden Complexity is Complexity](https://medium.com/@rlunde/hidden-complexity-is-complexity-a88d242f2322)
 - [Surprise! You Don't Exist](https://medium.com/@rlunde/surprise-you-dont-exist-52dcbc75b11f)
 - [Amor Fati and Wabi-Sabi](https://medium.com/@rlunde/attitude-101-amor-fati-and-wabi-sabi-2c1208974df3)
+- [The Whole Nine Yards](https://medium.com/@rlunde/the-whole-nine-yards-428d0f095b2c)
 - [How To Write](https://medium.com/@rlunde/how-to-write-4f3f19d39bb9)
 - [Build an ark? Or nail pizza to the wall?](https://medium.com/@rlunde/build-an-ark-or-nail-pizza-to-the-wall-ac07be90b4bd)
 - [I Am Groot!](https://medium.com/@rlunde/i-am-groot-f3dad5a805bb)
