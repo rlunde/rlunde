@@ -75,6 +75,7 @@ That said, some of these are things I used a lot many years ago, while others ar
 ### 📕 Some Selected Blog Posts I Wrote
 - [The Joy of Coding](https://medium.com/@rlunde/the-joy-of-coding-f788cab20bbb)
 - [Hidden Complexity is Complexity](https://medium.com/@rlunde/hidden-complexity-is-complexity-a88d242f2322)
+- [Putting the Fun in Functional](https://medium.com/@rlunde/kick-em-in-the-monads-4151d57b613d)
 - [Surprise! You Don't Exist](https://medium.com/@rlunde/surprise-you-dont-exist-52dcbc75b11f)
 - [Amor Fati and Wabi-Sabi](https://medium.com/@rlunde/attitude-101-amor-fati-and-wabi-sabi-2c1208974df3)
 - [The Whole Nine Yards](https://medium.com/@rlunde/the-whole-nine-yards-428d0f095b2c)
