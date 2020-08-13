@@ -83,5 +83,6 @@ That said, some of these are things I used a lot many years ago, while others ar
 - [Build an ark? Or nail pizza to the wall?](https://medium.com/@rlunde/build-an-ark-or-nail-pizza-to-the-wall-ac07be90b4bd)
 - [I Am Groot!](https://medium.com/@rlunde/i-am-groot-f3dad5a805bb)
 - [The Myth of Willpower](https://medium.com/@rlunde/the-myth-of-willpower-56756e5f606c)
+- [Manly Mindfulness](https://medium.com/@rlunde/manly-mindfulness-8c16b4ca17bf)
 
 ---
