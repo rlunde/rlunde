@@ -72,7 +72,7 @@ That said, some of these are things I used a lot many years ago, while others ar
 
 <br />
 
-### 📕 Some Selected Blog Posts I Wrote
+### 📕 A Few of My Blog Posts
 - [The Joy of Coding](https://medium.com/@rlunde/the-joy-of-coding-f788cab20bbb)
 - [Hidden Complexity is Complexity](https://medium.com/@rlunde/hidden-complexity-is-complexity-a88d242f2322)
 - [Putting the Fun in Functional](https://medium.com/@rlunde/kick-em-in-the-monads-4151d57b613d)
@@ -84,5 +84,6 @@ That said, some of these are things I used a lot many years ago, while others ar
 - [I Am Groot!](https://medium.com/@rlunde/i-am-groot-f3dad5a805bb)
 - [The Myth of Willpower](https://medium.com/@rlunde/the-myth-of-willpower-56756e5f606c)
 - [Manly Mindfulness](https://medium.com/@rlunde/manly-mindfulness-8c16b4ca17bf)
+- [11 Foods You Should Never Eat](https://medium.com/@rlunde/11-foods-you-should-never-eat-57d469aa0cf1)
 
 ---
