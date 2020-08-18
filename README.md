@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 **Note**: I never claim to be an expert in a language (or anything else). So I'll try to distinguish between the things I've used at work "for real" versus things I've written personal projects in, versus things I'm curious about and learning.
 
-That said, some of these are things I used a lot many years ago, while others are things I used a little very recently.
+That said, some of these are things I used a lot (but some of them many years ago), while others are things I used a little (some very recently).
 
 ## Languages
 
@@ -49,7 +49,7 @@ That said, some of these are things I used a lot many years ago, while others ar
 ## Tools, Frameworks, Formats, etc.
 
 ### Used for real
-- atom, intellij (and jetbrains family), vim, vscode, xcode
+- atom, intellij (and the jetbrains family), vim, vscode, xcode
 - git (and many other version control systems), confluence, jira, trello, ...
 - docker, kubernetes
 - html, json, yaml, xml
@@ -68,11 +68,12 @@ That said, some of these are things I used a lot many years ago, while others ar
 1. bash - I use it all the time, but if I'm going to write a script I'll use python, ruby, perl, ...
 2. xslt - I just don't like it
 3. lisp - a first love, but alas
-4. things we used at work but I never programmed, like elasticsearch, etc.
+4. things we used at work but I never programmed myself, like elasticsearch, etc.
 
 <br />
 
 ### 📕 A Few of My Blog Posts
+- [Type Safety, Low-fat Diets, and Cheese](https://medium.com/@rlunde/type-safety-low-fat-diets-and-cheese-1bb113656d0)
 - [The Joy of Coding](https://medium.com/@rlunde/the-joy-of-coding-f788cab20bbb)
 - [Hidden Complexity is Complexity](https://medium.com/@rlunde/hidden-complexity-is-complexity-a88d242f2322)
 - [Putting the Fun in Functional](https://medium.com/@rlunde/kick-em-in-the-monads-4151d57b613d)
