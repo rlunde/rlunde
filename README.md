@@ -22,13 +22,16 @@ Here are some ideas to get you started:
 - I’m working on re-doing my github stuff. (I emptied it out a couple of years ago when I worked for a company that wasn't keen on us doing open source.) 
 - I’m currently learning Swift and iOS development, starting to dabble with Rust, and giving myself a refresher course on C++, Go, and Python.
 - 2020 Goals: learn a lot, finish writing my current novel, write more blogs, and meet interesting people.
-- Fun fact: I'm the organizer of three Pittsburgh-area meetup groups: [board games](https://www.meetup.com/Board-Gaming-Geeks), [pittsburgh writers](https://www.meetup.com/pittsburgh-writers-meetup/), and [non-fiction round table](https://www.meetup.com/Pittsburgh-NonFiction-Round-Table/).
+- Fun fact: I'm the organizer of three Pittsburgh-area meetup groups: 
+  - [board games](https://www.meetup.com/Board-Gaming-Geeks)
+  - [pittsburgh writers](https://www.meetup.com/pittsburgh-writers-meetup/)
+  - [non-fiction round table](https://www.meetup.com/Pittsburgh-NonFiction-Round-Table/)
 
 ### Where to find me:
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ron-lunde-6205/)
+[<img align="left" alt="LinkedIn" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ron-lunde-6205/)
 
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/rlunde)
+[<img align="left" alt="Twitter" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/rlunde)
 
 <br />
 
@@ -72,7 +75,7 @@ That said, some of these are things I used a lot (but some of them many years ag
 
 <br />
 
-### 📕 A Few of My Blog Posts
+### A Few of My Blog Posts
 - [Type Safety, Low-fat Diets, and Cheese](https://medium.com/@rlunde/type-safety-low-fat-diets-and-cheese-1bb113656d0)
 - [The Joy of Coding](https://medium.com/@rlunde/the-joy-of-coding-f788cab20bbb)
 - [Hidden Complexity is Complexity](https://medium.com/@rlunde/hidden-complexity-is-complexity-a88d242f2322)
