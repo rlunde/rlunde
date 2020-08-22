@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 - I’m currently learning Swift and iOS development, starting to dabble with Rust, and giving myself a refresher course on C++, Go, and Python.
 - 2020 Goals: learn a lot, finish writing my current novel, write more blogs, and meet interesting people.
 - Fun fact: I'm the organizer of three Pittsburgh-area meetup groups: 
-  - [board games](https://www.meetup.com/Board-Gaming-Geeks)
   - [pittsburgh writers](https://www.meetup.com/pittsburgh-writers-meetup/)
-  - [non-fiction round table](https://www.meetup.com/Pittsburgh-NonFiction-Round-Table/)
+  - [non-fiction book club](https://www.meetup.com/Pittsburgh-NonFiction-Round-Table/)
+  - [virtual board games](https://www.meetup.com/Board-Gaming-Geeks)
 
 ### Where to find me:
 
@@ -76,6 +76,7 @@ That said, some of these are things I used a lot (but some of them many years ag
 <br />
 
 ### A Few of My Blog Posts
+- [Let's Get Small](https://medium.com/@rlunde/lets-get-small-df796fca1944)
 - [Type Safety, Low-fat Diets, and Cheese](https://medium.com/@rlunde/type-safety-low-fat-diets-and-cheese-1bb113656d0)
 - [The Joy of Coding](https://medium.com/@rlunde/the-joy-of-coding-f788cab20bbb)
 - [Hidden Complexity is Complexity](https://medium.com/@rlunde/hidden-complexity-is-complexity-a88d242f2322)
