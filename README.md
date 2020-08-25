@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 - I’m currently learning Swift and iOS development, starting to dabble with Rust, and giving myself a refresher course on C++, Go, and Python.
 - 2020 Goals: learn a lot, finish writing my current novel, write more blogs, and meet interesting people.
 - Fun fact: I'm the organizer of three Pittsburgh-area meetup groups: 
-  - [pittsburgh writers](https://www.meetup.com/pittsburgh-writers-meetup/)
-  - [non-fiction book club](https://www.meetup.com/Pittsburgh-NonFiction-Round-Table/)
-  - [virtual board games](https://www.meetup.com/Board-Gaming-Geeks)
+  - [pittsburgh writers](https://www.meetup.com/pittsburgh-writers-meetup/) (158 members)
+  - [non-fiction book club](https://www.meetup.com/Pittsburgh-NonFiction-Round-Table/) (938 members)
+  - [virtual board games](https://www.meetup.com/Board-Gaming-Geeks) (1460 members)
 
 ### Where to find me:
 
