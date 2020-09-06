@@ -66,14 +66,14 @@ That said, some of these are things I used a lot (but some of them many years ag
 ### Used for personal projects, or just learning
 - mongodb, neo4j
 
-# Things I didn't put here
+## Things I didn't put here
 
 1. bash - I use it all the time, but if I'm going to write a script I'll use python, ruby, perl, ...
 2. xslt - I just don't like it
 3. lisp - a first love, but alas
 4. things we used at work but I never programmed myself, like elasticsearch, etc.
 
-# Top 5 Things I Want To Learn
+## Top 5 Things I Want To Learn
 
 1. More Spanish
 2. More about GCP
