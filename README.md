@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 - 2020 Goals: learn a lot, finish writing my current novel, write more blogs, and meet interesting people.
 - Fun fact: I'm the organizer of three Pittsburgh-area meetup groups: 
   - [pittsburgh writers](https://www.meetup.com/pittsburgh-writers-meetup/) (161 members)
-  - [non-fiction book club](https://www.meetup.com/Pittsburgh-NonFiction-Round-Table/) (942 members)
-  - [virtual board games](https://www.meetup.com/Board-Gaming-Geeks) (1466 members)
+  - [non-fiction book club](https://www.meetup.com/Pittsburgh-NonFiction-Round-Table/) (944 members)
+  - [virtual board games](https://www.meetup.com/Board-Gaming-Geeks) (1467 members)
 
 ### Where to find me:
 
@@ -72,6 +72,14 @@ That said, some of these are things I used a lot (but some of them many years ag
 2. xslt - I just don't like it
 3. lisp - a first love, but alas
 4. things we used at work but I never programmed myself, like elasticsearch, etc.
+
+# Top 5 Things I Want To Learn
+
+1. More Spanish
+2. More about GCP
+3. More about AWS
+4. ZeroMQ
+5. More AI/ML/NLP 
 
 <br />
 
