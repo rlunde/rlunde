@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 - I’m working on re-doing my github stuff. (I emptied it out a couple of years ago when I worked for a company that wasn't keen on us doing open source.) 
 - I’m currently learning Swift and iOS development, starting to dabble with Rust, and giving myself a refresher course on C++, Go, and Python.
 - 2020 Goals: learn a lot, finish writing my current novel, write more blogs, and meet interesting people.
-- Fun fact: I'm the organizer of three Pittsburgh-area meetup groups: 
+- Spare time: I'm the organizer of three Pittsburgh-area meetup groups: 
   - [pittsburgh writers](https://www.meetup.com/pittsburgh-writers-meetup/) (161 members)
-  - [non-fiction book club](https://www.meetup.com/Pittsburgh-NonFiction-Round-Table/) (955 members)
+  - [non-fiction book club](https://www.meetup.com/Pittsburgh-NonFiction-Round-Table/) (954 members)
   - [virtual board games](https://www.meetup.com/Board-Gaming-Geeks) (1472 members)
 
 ### Where to find me:
