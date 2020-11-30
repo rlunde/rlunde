@@ -1,26 +1,15 @@
 
 <!--
 **rlunde/rlunde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 # Who Am I?
 
 ###### I feel certain a philosopher somewhere is thinking about that very question...
 
-## I'm a software architect/manager/engineer in Pittsburgh, Pennsylvania, USA
+## I'm a software manager/architect/engineer in Pittsburgh, Pennsylvania, USA
 
 - I’m working on re-doing my github stuff. (I emptied it out a couple of years ago when I worked for a company that wasn't keen on us doing open source.) 
-- I’m currently learning Swift and iOS development, starting to dabble with Rust, and giving myself a refresher course on C++, Go, and Python.
+- I’m currently learning Swift and iOS development, starting to dabble with Rust, and giving myself a refresher course on Go and Python.
 - 2020 Goals: learn a lot, finish writing my current novel, write more blogs, and meet interesting people.
 - Spare time: I'm the organizer of three Pittsburgh-area meetup groups: 
   - [pittsburgh writers](https://www.meetup.com/pittsburgh-writers-meetup/) (176 members)
@@ -71,15 +60,15 @@ That said, some of these are things I used a lot (but years ago), while others a
 1. bash - I use it all the time, but if I'm going to write a script I'll use python, ruby, perl, ...
 2. xslt - I just don't like it
 3. lisp - a first love, but alas
-4. things we used at work but I never programmed myself, like elasticsearch, etc.
+4. things we used at work but I never (so far) programmed myself at work, like elasticsearch, etc.
 
 ## Top 5 Things I Want To Learn
 
-1. More about GCP
-2. More about AWS
+1. More about AWS
+2. More about GCP
 3. More AI/ML/NLP 
 4. WebAssembly
-4. More Spanish
+5. More Spanish
 
 <br />
 
