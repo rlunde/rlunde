@@ -14,7 +14,7 @@
 - Spare time: I'm the organizer of three Pittsburgh-area meetup groups: 
   - [pittsburgh writers](https://www.meetup.com/pittsburgh-writers-meetup/) (177 members)
   - [non-fiction book club](https://www.meetup.com/Pittsburgh-NonFiction-Round-Table/) (981 members)
-  - [virtual board games](https://www.meetup.com/Board-Gaming-Geeks) (1495 members)
+  - [virtual board games](https://www.meetup.com/Board-Gaming-Geeks) (1496 members)
 
 ### Where to find me:
 
