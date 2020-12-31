@@ -13,8 +13,8 @@
 - 2020 Goals: learn a lot, finish writing my current novel, write more blogs, and meet interesting people.
 - Spare time: I'm the organizer of three Pittsburgh-area meetup groups: 
   - [pittsburgh writers](https://www.meetup.com/pittsburgh-writers-meetup/) (185 members)
-  - [non-fiction book club](https://www.meetup.com/Pittsburgh-NonFiction-Round-Table/) (986 members)
-  - [virtual board games](https://www.meetup.com/Board-Gaming-Geeks) (1511 members)
+  - [non-fiction book club](https://www.meetup.com/Pittsburgh-NonFiction-Round-Table/) (991 members)
+  - [virtual board games](https://www.meetup.com/Board-Gaming-Geeks) (1512 members)
 
 ### Where to find me:
 
