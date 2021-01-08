@@ -60,7 +60,7 @@ That said, some of these are things I used a lot (but years ago), while others a
 1. bash - I use it all the time, but if I'm going to write a script I'll use python, ruby, perl, ...
 2. xslt - I just don't like it
 3. lisp - a first love, but alas
-4. things we used at work but I never (so far) programmed myself at work, like elasticsearch, etc.
+4. things we used at work but I never (so far) programmed myself at work, like grafana, etc.
 
 ## Top 5 Things I Want To Learn
 
