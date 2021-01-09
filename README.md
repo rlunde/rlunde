@@ -12,9 +12,9 @@
 - I’m currently learning Swift and iOS development, starting to dabble with Rust, and giving myself a refresher course on Go and Python.
 - 2020 Goals: learn a lot, finish writing my current novel, write more blogs, and meet interesting people.
 - Spare time: I'm the organizer of three Pittsburgh-area meetup groups: 
-  - [pittsburgh writers](https://www.meetup.com/pittsburgh-writers-meetup/) (190 members)
-  - [non-fiction book club](https://www.meetup.com/Pittsburgh-NonFiction-Round-Table/) (995 members)
-  - [virtual board games](https://www.meetup.com/Board-Gaming-Geeks) (1519 members)
+  - [pittsburgh writers](https://www.meetup.com/pittsburgh-writers-meetup/) (191 members)
+  - [non-fiction book club](https://www.meetup.com/Pittsburgh-NonFiction-Round-Table/) (998 members)
+  - [virtual board games](https://www.meetup.com/Board-Gaming-Geeks) (1521 members)
 
 ### Where to find me:
 
@@ -60,7 +60,7 @@ That said, some of these are things I used a lot (but years ago), while others a
 1. bash - I use it all the time, but if I'm going to write a script I'll use python, ruby, perl, ...
 2. xslt - I just don't like it
 3. lisp - a first love, but alas
-4. things we used at work but I never (so far) programmed myself at work, like elasticsearch, etc.
+4. things we used at work but I never (so far) programmed myself at work, like grafana, etc.
 
 ## Top 5 Things I Want To Learn
 
