@@ -6,15 +6,14 @@
 
 ###### I feel certain a philosopher somewhere is thinking about that very question...
 
-## I'm a software manager/architect/engineer in Pittsburgh, Pennsylvania, USA
+## I'm a director of software engineering living in Pittsburgh, Pennsylvania, USA
 
-- I’m working on re-doing my github stuff. (I emptied it out a couple of years ago when I worked for a company that wasn't keen on us doing open source.) 
-- I’m currently learning Swift and iOS development, starting to dabble with Rust, and giving myself a refresher course on Go and Python.
-- 2020 Goals: learn a lot, finish writing my current novel, write more blogs, and meet interesting people.
+- I’m currently learning or re-learning a lot of different technologies.
+- 2021 Goals: learn a lot, help my company grow, finish writing my current novel, write more blogs, and meet interesting people.
 - Spare time: I'm the organizer of three Pittsburgh-area meetup groups: 
-  - [pittsburgh writers](https://www.meetup.com/pittsburgh-writers-meetup/) (197 members)
+  - [pittsburgh writers](https://www.meetup.com/pittsburgh-writers-meetup/) (198 members)
   - [non-fiction book club](https://www.meetup.com/Pittsburgh-NonFiction-Round-Table/) (1005 members)
-  - [virtual board games](https://www.meetup.com/Board-Gaming-Geeks) (1527 members)
+  - [virtual board games](https://www.meetup.com/Board-Gaming-Geeks) (1528 members)
 
 ### Where to find me:
 
