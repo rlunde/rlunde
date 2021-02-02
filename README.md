@@ -6,12 +6,12 @@
 
 ###### I feel certain a philosopher somewhere is thinking about that very question...
 
-## I'm a director of software engineering living in Pittsburgh, Pennsylvania, USA
+## I'm a software engineering director living in Pittsburgh, Pennsylvania, USA
 
 - I’m currently learning or re-learning a lot of different technologies.
 - 2021 Goals: learn a lot, help my company grow, finish writing my current novel, write more blogs, and meet interesting people.
 - Spare time: I'm the organizer of three Pittsburgh-area meetup groups: 
-  - [pittsburgh writers](https://www.meetup.com/pittsburgh-writers-meetup/) (199 members)
+  - [pittsburgh writers](https://www.meetup.com/pittsburgh-writers-meetup/) (201 members)
   - [non-fiction book club](https://www.meetup.com/Pittsburgh-NonFiction-Round-Table/) (1007 members)
   - [virtual board games](https://www.meetup.com/Board-Gaming-Geeks) (1530 members)
 
@@ -27,12 +27,12 @@
 
 **Note**: I never claim to be an expert in a language (or anything else). So I'll try to distinguish between the things I've used at work "for real" versus things I've written personal projects in, versus things I'm curious about and learning.
 
-That said, some of these are things I used a lot (but years ago), while others are things I used less (but recently).
+Also: the order of things here is alphabetical (not by preference, familiarity, or anything else).
 
 ## Languages
 
 ### Used for real
-- c, c++, css, go, html, java, javascript, perl, php, python, ruby, swift, typescript
+- c, c++, css, go, html, java, javascript, perl, php, python, sql, ruby, swift, typescript
 
 ### Used for personal projects, or just learning
 - clojure, elixir, rust
@@ -41,15 +41,15 @@ That said, some of these are things I used a lot (but years ago), while others a
 
 ### Used for real
 - atom, intellij (and the jetbrains family), vim, vscode, xcode
-- git (and many other version control systems), confluence, jira, trello, ...
+- confluence, git (and many other version control systems), jira, trello, ...
 - docker, kubernetes
 - html, json, yaml, xml
-- bootstrap, d3, rails, react, redux, spring
+- bootstrap, d3, rails, react, redux, spring, vue
 
 ## Databases/Datastores
 
 ### Used for real
-- cassandra, dgraph, mysql, oracle, postgresql, redis, scylladb
+- cassandra, dgraph, elasticsearch, mysql, oracle, postgresql, redis, scylladb
 
 ### Used for personal projects, or just learning
 - mongodb, neo4j
@@ -63,8 +63,8 @@ That said, some of these are things I used a lot (but years ago), while others a
 
 ## Top 5 Things I Want To Learn
 
-1. More about AWS
-2. More about GCP
+1. More AWS
+2. More Elasticsearch, Python, Vue
 3. More AI/ML/NLP 
 4. WebAssembly
 5. More Spanish
