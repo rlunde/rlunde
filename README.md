@@ -11,9 +11,9 @@
 - I’m currently learning or re-learning a lot of different technologies.
 - 2021 Goals: learn a lot, help my company grow, finish writing my current novel, write more blogs, and meet interesting people.
 - Spare time: I'm the organizer of three Pittsburgh-area meetup groups: 
-  - [pittsburgh writers](https://www.meetup.com/pittsburgh-writers-meetup/) (252 members)
-  - [non-fiction book club](https://www.meetup.com/Pittsburgh-NonFiction-Round-Table/) (1080 members)
-  - [virtual board games](https://www.meetup.com/Board-Gaming-Geeks) (1592 members)
+  - [pittsburgh writers](https://www.meetup.com/pittsburgh-writers-meetup/) (253 members)
+  - [non-fiction book club](https://www.meetup.com/Pittsburgh-NonFiction-Round-Table/) (1100 members)
+  - [virtual board games](https://www.meetup.com/Board-Gaming-Geeks) (1604 members)
 
 ### Where to find me:
 
