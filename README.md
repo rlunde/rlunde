@@ -4,16 +4,14 @@
 -->
 # Who Am I?
 
-###### I feel certain a philosopher somewhere is thinking about that very question...
-
 ## I'm a software engineering director living in Pittsburgh, Pennsylvania, USA
 
 - I’m currently learning or re-learning a lot of different technologies.
-- 2021 Goals: learn a lot, help my company grow, finish writing my current novel, write more blogs, and meet interesting people.
+- 2022 Goals: learn a lot, help my company grow, finish writing my current novel, write more blogs, and meet interesting people.
 - Spare time: I'm the organizer of three Pittsburgh-area meetup groups: 
-  - [virtual writers](https://www.meetup.com/virtual-writers-meetup/) (413 members)
-  - [non-fiction book club](https://www.meetup.com/Pittsburgh-NonFiction-Round-Table/) (1277 members)
-  - [virtual board games](https://www.meetup.com/Board-Gaming-Geeks) (1666 members)
+  - [virtual writers](https://www.meetup.com/virtual-writers-meetup/) (449 members)
+  - [non-fiction book club](https://www.meetup.com/Pittsburgh-NonFiction-Round-Table/) (1325 members)
+  - [virtual board games](https://www.meetup.com/Board-Gaming-Geeks) (1677 members)
 
 ### Where to find me:
 
@@ -56,7 +54,7 @@ Also: the order of things here is alphabetical (not by preference, familiarity, 
 
 ## Things I didn't put here
 
-1. bash - I use it all the time, but if I'm going to write a script I'll use python, ruby, perl, ...
+1. bash or zsh - I use them all the time, but if I'm going to write a script I'll use python, ruby, perl, ...
 2. xslt - I just don't like it
 3. lisp - a first love, but alas
 4. things we used at work but I never (so far) programmed myself at work, like grafana, etc.
@@ -64,7 +62,7 @@ Also: the order of things here is alphabetical (not by preference, familiarity, 
 ## Top 5 Things I Want To Learn
 
 1. More AWS
-2. More Elasticsearch, Python, Vue
+2. More Python, Vue
 3. More AI/ML/NLP 
 4. WebAssembly
 5. More Spanish
