@@ -1,17 +1,16 @@
-
 <!--
 **rlunde/rlunde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+
 # Who Am I?
 
 ## I'm a software engineering director living in Pittsburgh, Pennsylvania, USA
 
-- I’m currently learning or re-learning a lot of different technologies.
 - 2022 Goals: learn a lot, help my company grow, finish writing my current novel, write more blogs, and meet interesting people.
-- Spare time: I'm the organizer of three Pittsburgh-area meetup groups: 
-  - [virtual writers](https://www.meetup.com/virtual-writers-meetup/) (449 members)
-  - [non-fiction book club](https://www.meetup.com/Pittsburgh-NonFiction-Round-Table/) (1325 members)
-  - [virtual board games](https://www.meetup.com/Board-Gaming-Geeks) (1677 members)
+- Spare time: I'm the organizer of three Pittsburgh-area meetup groups:
+  - [virtual writers](https://www.meetup.com/virtual-writers-meetup/) (503 members)
+  - [non-fiction book club](https://www.meetup.com/Pittsburgh-NonFiction-Round-Table/) (1407 members)
+  - [virtual board games](https://www.meetup.com/Board-Gaming-Geeks) (1713 members)
 
 ### Where to find me:
 
@@ -30,14 +29,17 @@ Also: the order of things here is alphabetical (not by preference, familiarity, 
 ## Languages
 
 ### Used for real
+
 - c, c++, css, go, html, java, javascript, perl, php, python, sql, ruby, swift, typescript
 
 ### Used for personal projects, or just learning
+
 - clojure, elixir, rust
 
 ## Tools, Frameworks, Formats, etc.
 
 ### Used for real
+
 - atom, intellij (and the jetbrains family), vim, vscode, xcode
 - confluence, git (and many other version control systems), jira, trello, ...
 - docker, kubernetes
@@ -47,9 +49,11 @@ Also: the order of things here is alphabetical (not by preference, familiarity, 
 ## Databases/Datastores
 
 ### Used for real
+
 - cassandra, dgraph, elasticsearch, mysql, oracle, postgresql, redis, scylladb
 
 ### Used for personal projects, or just learning
+
 - mongodb, neo4j
 
 ## Things I didn't put here
@@ -57,19 +61,19 @@ Also: the order of things here is alphabetical (not by preference, familiarity, 
 1. bash or zsh - I use them all the time, but if I'm going to write a script I'll use python, ruby, perl, ...
 2. xslt - I just don't like it
 3. lisp - a first love, but alas
-4. things we used at work but I never (so far) programmed myself at work, like grafana, etc.
 
 ## Top 5 Things I Want To Learn
 
-1. More AWS
+1. More AI/ML/NLP
 2. More Python, Vue
-3. More AI/ML/NLP 
-4. WebAssembly
+3. WebAssembly
+4. More Chinese
 5. More Spanish
 
 <br />
 
 ### A Few of My Blog Posts
+
 - [Let's Get Small](https://medium.com/@rlunde/lets-get-small-df796fca1944)
 - [Type Safety, Low-fat Diets, and Cheese](https://medium.com/@rlunde/type-safety-low-fat-diets-and-cheese-1bb113656d0)
 - [The Joy of Coding](https://medium.com/@rlunde/the-joy-of-coding-f788cab20bbb)
