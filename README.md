@@ -8,9 +8,9 @@
 
 - 2022 Goals: learn a lot, help my company grow, finish writing my current novel, write more blogs, and meet interesting people.
 - Spare time: I'm the organizer of three Pittsburgh-area meetup groups:
-  - [virtual writers](https://www.meetup.com/virtual-writers-meetup/) (503 members)
-  - [non-fiction book club](https://www.meetup.com/Pittsburgh-NonFiction-Round-Table/) (1407 members)
-  - [virtual board games](https://www.meetup.com/Board-Gaming-Geeks) (1713 members)
+  - [virtual writers](https://www.meetup.com/virtual-writers-meetup/) (513 members)
+  - [non-fiction book club](https://www.meetup.com/Pittsburgh-NonFiction-Round-Table/) (1408 members)
+  - [virtual board games](https://www.meetup.com/Board-Gaming-Geeks) (1722 members)
 
 ### Where to find me:
 
