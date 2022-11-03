@@ -14,13 +14,7 @@
 
 ### Where to find me:
 
-[1]: https://www.linkedin.com/in/ron-lunde-6205/
-[2]: https://www.twitter.com/rlunde
-[3]: https://www.mastodon.social/@rontology
-
-[![linkedin]( images/linkedin.png)][1]
-[![twitter]( images/twitter.png)][2]
-[![mastodon]( images/mastodon1.png)][3]
+[![linkedin]( images/linkedin.png)][https://www.linkedin.com/in/ron-lunde-6205] - [![twitter]( images/twitter.png)][https://www.twitter.com/rlunde] - [![mastodon]( images/mastodon1.png)][https://www.mastodon.social/@rontology]
 
 
 <br />
