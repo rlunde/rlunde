@@ -14,9 +14,13 @@
 
 ### Where to find me:
 
-[<img align="left" alt="LinkedIn" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ron-lunde-6205/)
+[1]: http://www.github.com/lunde
+[2]: https://www.linkedin.com/in/ron-lunde-6205/
+[3]: https://www.twitter.com/rlunde
 
-[<img align="left" alt="Twitter" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/rlunde)
+[![linkedin]( https://www.flaticon.com/free-icons/linkedin)][2]
+[![twitter]( https://www.flaticon.com/free-icons/twitter-logo)][3]
+
 
 <br />
 
