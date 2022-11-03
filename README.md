@@ -14,12 +14,13 @@
 
 ### Where to find me:
 
-[1]: http://www.github.com/lunde
-[2]: https://www.linkedin.com/in/ron-lunde-6205/
-[3]: https://www.twitter.com/rlunde
+[1]: https://www.linkedin.com/in/ron-lunde-6205/
+[2]: https://www.twitter.com/rlunde
+[3]: https://www.mastodon.social/@rontology
 
-[![linkedin]( https://www.flaticon.com/free-icons/linkedin)][2]
-[![twitter]( https://www.flaticon.com/free-icons/twitter-logo)][3]
+[![linkedin]( images/linkedin.png)][1]
+[![twitter]( images/twitter.png)][2]
+[![mastodon]( images/mastodon1.png)][3]
 
 
 <br />
