@@ -6,11 +6,11 @@
 
 ## I'm a software engineering director living in Pittsburgh, Pennsylvania, USA
 
-- 2022 Goals: learn a lot, help my company grow, finish writing my current novel, write more blogs, and meet interesting people.
+- Current Goals: learn a lot, work on hard problems with a great team, write, and meet interesting people.
 - Spare time: I'm the organizer of three Pittsburgh-area meetup groups:
-  - [virtual writers](https://www.meetup.com/virtual-writers-meetup/) (513 members)
-  - [non-fiction book club](https://www.meetup.com/Pittsburgh-NonFiction-Round-Table/) (1408 members)
-  - [virtual board games](https://www.meetup.com/Board-Gaming-Geeks) (1722 members)
+  - [virtual writers](https://www.meetup.com/virtual-writers-meetup/) (520 members)
+  - [non-fiction book club](https://www.meetup.com/Pittsburgh-NonFiction-Round-Table/) (1450 members)
+  - [virtual board games](https://www.meetup.com/Board-Gaming-Geeks) (1738 members)
 
 ### Where to find me:
 
@@ -20,13 +20,13 @@
 
 # Languages, Tools, Databases:
 
-**Note**: I never claim to be an expert in a language (or anything else). So I'll try to distinguish between the things I've used at work "for real" versus things I've written personal projects in, versus things I'm curious about and learning.
-
-Also: the order of things here is alphabetical (not by preference, familiarity, or anything else).
+**Note**: I love learning and trying new things, so this is both incomplete and always changing.
 
 ## Languages
 
 ### Used for real
+
+The order of languages here is alphabetical (not ordered by preference or familiarity).
 
 - c, c++, css, go, html, java, javascript, perl, php, python, sql, ruby, swift, typescript
 
@@ -36,35 +36,27 @@ Also: the order of things here is alphabetical (not by preference, familiarity, 
 
 ## Tools, Frameworks, Formats, etc.
 
-### Used for real
-
-- atom, intellij (and the jetbrains family), vim, vscode, xcode
-- confluence, git (and many other version control systems), jira, trello, ...
+- vscode, intellij (and the jetbrains family), vim, xcode
+- git (and many other version control systems), jira, trello, ...
+- AWS
 - docker, kubernetes
 - html, json, yaml, xml
-- bootstrap, d3, rails, react, redux, spring, vue
+- rails, react, redux, spring, vue
 
 ## Databases/Datastores
 
-### Used for real
-
-- cassandra, dgraph, elasticsearch, mysql, oracle, postgresql, redis, scylladb
-
-### Used for personal projects, or just learning
-
-- mongodb, neo4j
+- cassandra, dgraph, elasticsearch, mysql, oracle, postgresql, redis
 
 ## Things I didn't put here
 
 1. bash or zsh - I use them all the time, but if I'm going to write a script I'll use python, ruby, perl, ...
-2. xslt - I just don't like it
-3. lisp - a first love, but alas
+2. lisp - a first love, but alas
 
 ## Top 5 Things I Want To Learn
 
 1. More AI/ML/NLP
-2. More Python, Vue
-3. WebAssembly
+2. More Go, Elixir, Rust, Python
+3. More AWS, GCP, Azure
 4. More Chinese
 5. More Spanish
 
@@ -72,6 +64,10 @@ Also: the order of things here is alphabetical (not by preference, familiarity, 
 
 ### A Few of My Blog Posts
 
+- [Good Idea, Bad Metaphor, Great Resignation](https://ron-lunde.medium.com/good-idea-bad-metaphor-great-resignation-fbd283fc48f)
+- [On Learning Chinese, Brains, and AI](https://ron-lunde.medium.com/on-learning-chinese-brains-and-ai-df635f4659fd)
+- [Understanding is All You Need](https://ron-lunde.medium.com/understanding-is-all-you-need-36a56a6d0ca)
+- [Don't Looks at the Hand](https://ron-lunde.medium.com/dont-look-at-the-hand-a6dca80e4bce)
 - [Let's Get Small](https://medium.com/@rlunde/lets-get-small-df796fca1944)
 - [Type Safety, Low-fat Diets, and Cheese](https://medium.com/@rlunde/type-safety-low-fat-diets-and-cheese-1bb113656d0)
 - [The Joy of Coding](https://medium.com/@rlunde/the-joy-of-coding-f788cab20bbb)
