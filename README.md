@@ -6,16 +6,6 @@
 
 ## I'm a software engineering director living in Pittsburgh, Pennsylvania, USA
 
-- Current Goals: learn a lot, work on hard problems with a great team, write, and meet interesting people.
-- Spare time: I'm the organizer of three Pittsburgh-area meetup groups:
-  - [virtual writers](https://www.meetup.com/virtual-writers-meetup/) (520 members)
-  - [non-fiction book club](https://www.meetup.com/Pittsburgh-NonFiction-Round-Table/) (1450 members)
-  - [virtual board games](https://www.meetup.com/Board-Gaming-Geeks) (1738 members)
-
-### Where to find me:
-
-[![linkedin](images/linkedin.png)](https://www.linkedin.com/in/ron-lunde-6205) : [![twitter](images/twitter.png)](https://www.twitter.com/rlunde) : [![mastodon](images/mastodon1.png)](https://www.mastodon.social/@rontology)
-
 <br />
 
 # Languages, Tools, Databases:
@@ -61,6 +51,18 @@ The order of languages here is alphabetical (not ordered by preference or famili
 5. More Spanish
 
 <br />
+
+- Current Goals: learn a lot, work on hard problems with a great team, write, and meet interesting people.
+- Spare time: I'm the organizer of three Pittsburgh-area meetup groups:
+  - [virtual writers](https://www.meetup.com/virtual-writers-meetup/) (520 members)
+  - [non-fiction book club](https://www.meetup.com/Pittsburgh-NonFiction-Round-Table/) (1450 members)
+  - [virtual board games](https://www.meetup.com/Board-Gaming-Geeks) (1738 members)
+
+<br />
+### Where to find me:
+
+[![linkedin](images/linkedin.png)](https://www.linkedin.com/in/ron-lunde-6205) : [![twitter](images/twitter.png)](https://www.twitter.com/rlunde) : [![mastodon](images/mastodon1.png)](https://www.mastodon.social/@rontology)
+
 
 ### A Few of My Blog Posts
 
