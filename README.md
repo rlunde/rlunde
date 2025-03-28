@@ -4,64 +4,22 @@
 
 # Who Am I?
 
-## I'm a software engineering director living in Pittsburgh, Pennsylvania, USA
+I'm a retired software engineer / software architect / director of engineering. Now I make things just for fun, and write about it.
+
 
 <br />
 
-# Languages, Tools, Databases:
 
-**Note**: I love learning and trying new things, so this is both incomplete and always changing.
-
-## Languages
-
-### Used for real
-
-The order of languages here is alphabetical (not ordered by preference or familiarity).
-
-- c, c++, css, go, html, java, javascript, perl, php, python, sql, ruby, swift, typescript
-
-### Used for personal projects, or just learning
-
-- clojure, elixir, rust
-
-## Tools, Frameworks, Formats, etc.
-
-- vscode, intellij (and the jetbrains family), vim, xcode
-- git (and many other version control systems), jira, trello, ...
-- AWS
-- docker, kubernetes
-- html, json, yaml, xml
-- rails, react, redux, spring, vue
-
-## Databases/Datastores
-
-- cassandra, dgraph, elasticsearch, mysql, oracle, postgresql, redis
-
-## Things I didn't put here
-
-1. bash or zsh - I use them all the time, but if I'm going to write a script I'll use python, ruby, perl, ...
-2. lisp - a first love, but alas
-
-## Top 5 Things I Want To Learn
-
-1. More AI/ML/NLP
-2. More Go, Elixir, Rust, Python
-3. More AWS, GCP, Azure
-4. More Chinese
-5. More Spanish
 
 <br />
 
-- Current Goals: learn a lot, work on hard problems with a great team, write, and meet interesting people.
+- Current Goals: learn a lot, work on fun problems, write, and meet interesting people.
 - Spare time: I'm the organizer of three Pittsburgh-area meetup groups:
   - [virtual writers](https://www.meetup.com/virtual-writers-meetup/) (520 members)
   - [non-fiction book club](https://www.meetup.com/Pittsburgh-NonFiction-Round-Table/) (1450 members)
   - [virtual board games](https://www.meetup.com/Board-Gaming-Geeks) (1738 members)
 
 <br />
-### Where to find me:
-
-[![linkedin](images/linkedin.png)](https://www.linkedin.com/in/ron-lunde-6205) : [![twitter](images/twitter.png)](https://www.twitter.com/rlunde) : [![mastodon](images/mastodon1.png)](https://www.mastodon.social/@rontology)
 
 
 ### A Few of My Blog Posts
