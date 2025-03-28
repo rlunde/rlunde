@@ -15,9 +15,9 @@ I'm a retired software engineer / software architect / director of engineering. 
 
 - Current Goals: learn a lot, work on fun problems, write, and meet interesting people.
 - Spare time: I'm the organizer of three Pittsburgh-area meetup groups:
-  - [virtual writers](https://www.meetup.com/virtual-writers-meetup/) (520 members)
-  - [non-fiction book club](https://www.meetup.com/Pittsburgh-NonFiction-Round-Table/) (1450 members)
-  - [virtual board games](https://www.meetup.com/Board-Gaming-Geeks) (1738 members)
+  - [virtual writers](https://www.meetup.com/virtual-writers-meetup/) (584 members)
+  - [non-fiction book club](https://www.meetup.com/Pittsburgh-NonFiction-Round-Table/) (1613 members)
+  - [virtual board games](https://www.meetup.com/Board-Gaming-Geeks) (1800 members)
 
 <br />
 
