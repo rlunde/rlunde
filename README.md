@@ -14,15 +14,20 @@ I'm a retired software engineer / software architect / director of engineering. 
 <br />
 
 - Current Goals: learn a lot, work on fun problems, write, and meet interesting people.
-- Spare time: I'm the organizer of three Pittsburgh-area meetup groups:
-  - [virtual writers](https://www.meetup.com/virtual-writers-meetup/) (584 members)
-  - [non-fiction book club](https://www.meetup.com/Pittsburgh-NonFiction-Round-Table/) (1613 members)
-  - [virtual board games](https://www.meetup.com/Board-Gaming-Geeks) (1800 members)
+- Spare time: I'm the organizer of two meetup groups:
+  - [non-fiction book club](https://www.meetup.com/Pittsburgh-NonFiction-Round-Table/) (1689 members)
+  - [virtual board games](https://www.meetup.com/Board-Gaming-Geeks) (1864 members)
 
 <br />
 
 
 ### A Few of My Blog Posts
+
+#### Newer Blog Posts
+
+* [ronlunde.com](https://www.ronlunde.com)
+
+#### Older Blog Posts on Medium
 
 - [Good Idea, Bad Metaphor, Great Resignation](https://ron-lunde.medium.com/good-idea-bad-metaphor-great-resignation-fbd283fc48f)
 - [On Learning Chinese, Brains, and AI](https://ron-lunde.medium.com/on-learning-chinese-brains-and-ai-df635f4659fd)
