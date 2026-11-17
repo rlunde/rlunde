@@ -4,9 +4,7 @@
 
 # Who Am I?
 
-I'm a retired software engineer / software architect / director of engineering. Now I make things just for fun, and write about it.
-
-<br />
+I'm a retired software engineer/architect/director. Now I make things just for fun.
 
 <br />
 
@@ -19,7 +17,12 @@ I'm a retired software engineer / software architect / director of engineering. 
 
 ### Writing
 
-* [ronlunde.com](https://www.ronlunde.com)
+* [ronlunde.com](https://www.ronlunde.com) - my blog
+
+### Other Projects
+
+* [rustandink.com](https://rustandink.com) - our writing critique group
+* [BoardGamingGeeks.org](https://boardgaminggeeks.org/) - info and resources for playing board games online
 
 
 ---
